@@ -1,0 +1,34 @@
+.loading .img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background: gray;
+    margin: auto;
+}
+
+.loading h1 {
+    background: gray;
+    color: gray;
+    border-radius: 5px;
+}
+
+.loading h3 {
+    background: gray;
+    color: gray;
+    border-radius: 5px;
+}
+
+
+.loading p {
+    background: gray;
+    color: gray;
+    border-radius: 5px;
+}
+
+.loading .icons a {
+    display: inline-block;
+    background: gray;
+    color: gray;
+    border-radius: 5px;
+    width: 35px;
+}
